@@ -1,0 +1,6 @@
+@DDD.ToDo.WebAPI_HostAddress = http://localhost:5179
+
+GET {{DDD.ToDo.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
